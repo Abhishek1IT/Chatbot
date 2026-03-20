@@ -1,0 +1,15 @@
+# Dependencies
+**/node_modules/
+
+# Environment files
+**/.env
+
+# IDE
+.vscode/
+
+# Build outputs
+frontend/dist/
+
+# Accidental local files
+gh auth login
+gh auth login.pub
